@@ -1,0 +1,30 @@
+{
+  "name": "cross-server-bot",
+  "version": "3.0.0",
+  "description": "Cross Server Bot to link channels together",
+  "author": "Khaaz <khaaz.dev@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "eris": "github:abalabahaha/eris#dev"
+  },
+  "devDependencies": {
+    "@axonteam/eslint-config": "^2.2.1",
+    "eslint": "^6.8.0"
+  },
+  "optionalDependencies": {
+    "pm2": "^3.5.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "pm2start": "pm2 start index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khaazz/Cross-Server-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Khaazz/Cross-Server-Bot/issues"
+  },
+  "homepage": "https://github.com/Khaazz/Cross-Server-Bot#readme"
+}

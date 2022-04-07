@@ -1,0 +1,45 @@
+{
+    "token": "OTYxMzEzOTE0MjcwOTQxMTg0.Yk3LWQ.84CYQ15KhhbFYP00_zj1L3gOmVA",
+    "prefix": "£",
+    "enhancedMention": {
+        "user": true,
+        "role": true,
+        "channel": true
+    },
+    "messageDelete": true,
+    "deleteOnUpdate": true,
+    "guilds": [
+        {
+            "name": "Test Server2",
+            "identifier": "",
+            "guildID": "961322403433173033",
+            "channelID": "961322403433173036",
+            "whID": "961322627010547752",
+            "whToken": "ojTQO86WYoqDsoBbg-0dHLy8V3Ftrii1BFAuuXSIveXH6WsRFQM_hTMUvfuCpiUyQ6f3",
+            "ignore": false,
+            "ignoreBots": true,
+            "managerRoles": []
+        },
+        {
+            "name": "Test Server",
+            "identifier": "",
+            "guildID": "961314759540629584",
+            "channelID": "961314759540629587",
+            "whID": "961320969413226527",
+            "whToken": "RroTHzhTlieUc_hM62eW2Fltn2Jk4Og5SskNh6WA2k4cG0k6fsD4dCf_iRfrvewcQz6a",
+            "ignore": false,
+            "ignoreBots": true,
+            "managerRoles": []
+        },{
+            "name": "Test Server3",
+            "identifier": "",
+            "guildID": "961325940548464770",
+            "channelID": "961325941051777106",
+            "whID": "961326235013763092",
+            "whToken": "oife9fRzUGLnpMzErFMDMnDblHQKqUPizF6VVt6V54GEDnVC0G-1Yg4wBsi_g2huQU1p",
+            "ignore": false,
+            "ignoreBots": true,
+            "managerRoles": []
+        }
+    ]
+}
